@@ -11,5 +11,7 @@ public class Activity1 extends AppCompatActivity {
         setContentView(R.layout.activity_1);
         ///////////////comittt
         ///////////prova3hghghfg
+        //l'ho scaricato da casa ma da 100 errori
+        //Commit 11:37
     }
 }
